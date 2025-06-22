@@ -2,6 +2,10 @@
 
 This project is a stunning 3D developer portfolio built with **React** and **Three.js**. It showcases skills and projects in a visually engaging, interactive 3D environment.
 
+## Live Demo
+
+You can view the live application here: [https://threed-developer-portfolio-9spu.onrender.com/](https://threed-developer-portfolio-9spu.onrender.com/)
+
 ## ✨ Features
 
 - **3D Graphics**: Leverages `Three.js` and `@react-three/fiber` to create and display interactive 3D models.
